@@ -1,0 +1,36 @@
+.navbar, .jumb-marg {
+    margin: 0;
+}
+
+.navbar-border-radius {
+	border-radius: 0px;
+}
+
+.usluge-margin {
+    margin-top: 5%;
+    margin-bottom: 3.5%;
+}
+
+.identity {
+	color: #503268;
+}
+
+.identity-bg {
+	color: #fff;
+	background-color: #503268;
+}
+
+.tron-bg {
+	/*
+	background-image: url("../img/shattered/shattered.png");
+	*/
+	background-color: #ecf0f1;
+}
+
+.jumb1-bg {
+	box-shadow: 5 5 5px #555; 
+}
+
+.mojDiv {
+	background-color: #2c3e50;
+}
